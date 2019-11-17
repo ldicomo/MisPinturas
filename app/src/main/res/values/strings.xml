@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Mis Pinturas</string>
+
+    <string-array name="items">
+        <item>Lo inexplicable</item>
+        <item>Planos de existencia</item>
+        <item>Hiperespacio</item>
+        <item>Otras realidades</item>
+        <item>Cuerdas cósmicas</item>
+        <item>Lo que vendra</item>
+        <item>El orden implicado</item>
+        <item>Movimiento cubista irradiante</item>
+        <item>Un ataque a los sentidos</item>
+        <item>Imágenes arcaicas</item>
+        <item>Ecología</item>
+        <item>Otras emanaciones encienden</item>
+        <item>Visiones oníricas</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$30000</item>
+        <item>$15000</item>
+        <item>$30000</item>
+        <item>$15000</item>
+        <item>$30000</item>
+        <item>$20000</item>
+        <item>$20000</item>
+        <item>$20000</item>
+        <item>$30000</item>
+        <item>$40000</item>
+        <item>$50000</item>
+        <item>$30000</item>
+        <item>$100000</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Oleo s/madera, 79.5 x 28.5, base: 89.5 x 78.5 (Año 1991)</item>
+        <item>Oleo s/cartón, 35 x 50 (Año 1991)</item>
+        <item>Oleo s/tela, 70 x 50 (Año 1992)</item>
+        <item>Oleo s/tela, 45 x 35 (Año 1992)</item>
+        <item>Oleo y collage s/tela, 70 x 80 (Año 1992)</item>
+        <item>Acrílico s/papel, 85 x 60 (Año 1997)</item>
+        <item>Acrílico s/papel, 85 x 60 (Año 1997)</item>
+        <item>Acrílico s/papel, 70 x 50 (Año 1997)</item>
+        <item>Acrílico s/papel, 65.5 x 47.5 (Año 1997)</item>
+        <item>Acrílico s/papel, 85 x 120 (Año 1997)</item>
+        <item>(Tríptico) Téc. mixta s/chapadur, (30 x 50) x 3,
+            base: 114 x 62 (Año 1998)</item>
+        <item>Acrílico s/tela, 40 x 60 (Año 1998)</item>
+        <item>Acrílico s/tela, 150 x 100 (Año 1998)</item>
+    </string-array>
+
+</resources>
